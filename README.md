@@ -1,5 +1,5 @@
-# Wabi Sabi: 
-### Wabi and Sabi refers to the japanese philosophy of seeing beauty in simplicity, imperfections and a mindful approch to life. 
+### My Blogs! :sailboat: 
+
 1. [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787)
 
 A brief about Hactoberfest 2020 and my views on the open-source community
