@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### My Blogs! :sailboat: 
 
-You can use the [editor on GitHub](https://github.com/IC1101Virgo/My-Blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A brief about Hactoberfest 2020 and my views on the open-source community
 
-### Markdown
+2. [Algorithms for Calculating Day of Week](https://iq.opengenus.org/algorithm-for-day-of-week/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of the Algorithms for calculating the day of week which includes Tomohiko Sakamoto Algorithm, Gausses Algorithm and Wang's Algorithm with basics of Julian and Geogrian Calender.
 
-```markdown
-Syntax highlighted code block
+3. [Optimization in Union Find Data Structures](https://iq.opengenus.org/union-find-optimizations/)
 
-# Header 1
-## Header 2
-### Header 3
+Union Find data structures is also called disjoined set as its a collection of disjoined subsets. There are different optimizations such as union by rank/size, path comparession and much more.
 
-- Bulleted
-- List
+4. [ A quick guide on Chocolatey](https://anjali-chaturvedi.medium.com/a-quick-guide-on-chocolatey-f010385345e0)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IC1101Virgo/My-Blogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+What is chocolatey? It's features and installation overview.
