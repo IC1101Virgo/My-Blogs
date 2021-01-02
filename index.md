@@ -3,22 +3,22 @@
 * ## [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787 )
 
  A brief about Hactoberfest 2020 and my views on the open-source community
- <img src="https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true " alt="drawing" style="width:550px;"/>
+ <img src="https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true " alt="drawing" style="width:450px;"/>
 
 * ## [Algorithms for Calculating Day of Week](https://iq.opengenus.org/algorithm-for-day-of-week/)
 
  Some of the Algorithms for calculating the day of week which includes Tomohiko Sakamoto Algorithm, Gausses Algorithm and Wang's Algorithm with basics of Julian and Geogrian Calender.
- <img src="https://iq.opengenus.org/content/images/2020/11/Georgian_calender.png" alt="drawing" style="width:550px;"/>
+ <img src="https://iq.opengenus.org/content/images/2020/11/Georgian_calender.png" alt="drawing" style="width:450px;"/>
 
 * ## [Optimization in Union Find Data Structures](https://iq.opengenus.org/union-find-optimizations/)
 
  Union Find data structures is also called disjoined set as its a collection of disjoined subsets. There are different optimizations such as union by rank/size, path comparession and much more.
- <img src="https://iq.opengenus.org/content/images/2020/12/graphtheory.svg " alt="drawing" style="width:550px;"/>
+ <img src="https://iq.opengenus.org/content/images/2020/12/graphtheory.svg " alt="drawing" style="width:450px;"/>
 
 * ## [ A quick guide on Chocolatey](https://anjali-chaturvedi.medium.com/a-quick-guide-on-chocolatey-f010385345e0)
 
  What is Chocolatey? It's features and installation overview.
- <img src=" https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true" alt="drawing" style="width:550px;"/>
+ <img src=" https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true" alt="drawing" style="width:450px;"/>
 
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
