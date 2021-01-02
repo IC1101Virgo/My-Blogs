@@ -3,7 +3,7 @@
 * ## [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787 )
 
  A brief about Hactoberfest 2020 and my views on the open-source community
- <img src="https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true " alt="drawing" style="width:1000px;"/>
+ <img src="https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true " alt="drawing" style="width:750px;"/>
 
 * ## [Algorithms for Calculating Day of Week](https://iq.opengenus.org/algorithm-for-day-of-week/)
 
@@ -16,7 +16,7 @@
 * ## [ A quick guide on Chocolatey](https://anjali-chaturvedi.medium.com/a-quick-guide-on-chocolatey-f010385345e0)
 
  What is Chocolatey? It's features and installation overview.
- <img src=" https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true" alt="drawing" style="width:1000px;"/>
+ <img src=" https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true" alt="drawing" style="width:750px;"/>
 
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
