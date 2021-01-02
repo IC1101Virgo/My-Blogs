@@ -15,6 +15,7 @@
 * ## [ A quick guide on Chocolatey](https://anjali-chaturvedi.medium.com/a-quick-guide-on-chocolatey-f010385345e0)
 
  What is Chocolatey? It's features and installation overview.
+ ![](https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true)
 
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
