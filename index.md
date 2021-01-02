@@ -3,7 +3,7 @@
 * ## [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787)
 
  A brief about Hactoberfest 2020 and my views on the open-source community
- !()[https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true]
+ ![](https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true)
 
 * ## [Algorithms for Calculating Day of Week](https://iq.opengenus.org/algorithm-for-day-of-week/)
 
