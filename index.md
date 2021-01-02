@@ -1,6 +1,6 @@
 ### I am Anjali Chaturvedi and this is a collection of my blogs and write-ups. I write about my experiences, views, and much more. Stay tuned!
 
-* ## [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787)
+* ## [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787 =100*20)
 
  A brief about Hactoberfest 2020 and my views on the open-source community
  ![](https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/cover11.png?raw=true)
