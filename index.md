@@ -1,4 +1,4 @@
-### My Blogs! :sailboat: 
+### My Blogs! 
 
 *  [Open-Source community and Hactoberfest.](https://dev.to/ic1101virgo/open-source-community-and-hactoberfest-1787)
 
