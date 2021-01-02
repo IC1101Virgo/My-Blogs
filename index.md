@@ -8,10 +8,12 @@
 * ## [Algorithms for Calculating Day of Week](https://iq.opengenus.org/algorithm-for-day-of-week/)
 
  Some of the Algorithms for calculating the day of week which includes Tomohiko Sakamoto Algorithm, Gausses Algorithm and Wang's Algorithm with basics of Julian and Geogrian Calender.
+ <img src="https://iq.opengenus.org/content/images/2020/11/Georgian_calender.png" alt="drawing" style="width:550px;"/>
 
 * ## [Optimization in Union Find Data Structures](https://iq.opengenus.org/union-find-optimizations/)
 
  Union Find data structures is also called disjoined set as its a collection of disjoined subsets. There are different optimizations such as union by rank/size, path comparession and much more.
+ <img src="https://iq.opengenus.org/content/images/2020/12/graphtheory.svg " alt="drawing" style="width:550px;"/>
 
 * ## [ A quick guide on Chocolatey](https://anjali-chaturvedi.medium.com/a-quick-guide-on-chocolatey-f010385345e0)
 
