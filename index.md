@@ -19,6 +19,11 @@
 
  What is Chocolatey? It's features and installation overview.
  <img src=" https://github.com/IC1101Virgo/My-Blogs-Site/blob/gh-pages/images/chocolatey.jpg?raw=true" alt="drawing" style="width:450px;"/>
+ 
+ * ## [Hands-On: Build Your First Webpage](https://medium.com/developer-student-clubs-iiit-allahabad/hands-on-build-your-first-webpage-5e36fac3b12a)
+ 
+ The article is meant for beginners who are new to web development. It is a dry run on how to use the Github Repo which is provided to make a webpage of your own. The article also consists of a series of code snippets and other useful resources for reference which might come in handy!
+ <img src=" https://miro.medium.com/max/875/0*hxcmOuD1HHCcAdzp" alt="drawing" style="width:450px;"/>
 
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
