@@ -24,6 +24,12 @@
  
  The article is meant for beginners who are new to web development. It is a dry run on how to use the Github Repo which is provided to make a webpage of your own. The article also consists of a series of code snippets and other useful resources for reference which might come in handy!
  <img src=" https://miro.medium.com/max/875/0*hxcmOuD1HHCcAdzp" alt="drawing" style="width:450px;"/>
+ 
+ * ## [Hackad-emic! My Hackathon Journey](https://anjali-chaturvedi.medium.com/hacka-demic-my-hackathon-journey-34b6e6a00c72)
+ 
+ I recently participated in my first hackathon; Hack In The North or popularly known as HINT and it was a journey to withhold. In this article, I am going to share that journey and what I learned from it!
+<img src=" https://miro.medium.com/max/875/1*Wx7Qbgle8I886_RfpI3eAw.png" alt="drawing" style="width:450px;"/>
 
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
+
