@@ -30,6 +30,11 @@
  I recently participated in my first hackathon; Hack In The North or popularly known as HINT and it was a journey to withhold. In this article, I am going to share that journey and what I learned from it!
 <img src=" https://miro.medium.com/max/875/1*Wx7Qbgle8I886_RfpI3eAw.png" alt="drawing" style="width:450px;"/>
 
+* ## [Intutive Introduction to Quantum Computing](https://iq.opengenus.org/quantum-computing-intro/)
+  
+  This is the complete intoduction to quantum computing where design of quantum computer (quantum gates) are explored. Along with Shor's and Grover's algorithm.
+  <img src=" https://iq.opengenus.org/content/images/2021/02/quantum.jpg" alt="drawing" style="width:450px;"/>
+
 Please feel free to contact me. Let's share some music.
 Find me on twitter:[@Nirvana_Nvrmind](https://twitter.com/Nirvana_Nvrmind)
 
